@@ -1,2 +1,3 @@
 jsut test how github works
+added name and email to git
 
